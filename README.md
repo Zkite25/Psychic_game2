@@ -1,2 +1,0 @@
-# Psychic_game2
-
