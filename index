@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Psychic Game</title>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+  <link href='http://fonts.googleapis.com/css?family=Sansita+One' rel='stylesheet'>
+  <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="../style.css">
+</head>
+
+<style>
+</style>
+
+<body>
+        <h1 class="rainbow"><i class="fas fa-eye"></i>  The Psychic Game  <i class="fas fa-eye"></i></h1>
+        <table>
+        <tr><td><div class="typewriter">Guess what letter I'm thinking of !!!</td></tr></div>
+        </table>
+        <div id="game">
+					<p><h3>Wins: 0</h3></p>
+					<p><h3>Losses: 0</h3></p>
+					<p><h3>Guesses Left: 10</h3></p>
+					<p><h3>Your guesses so far: </h3></p>
+		</div>
+  
+  
+<script type="text/javascript" src="../game.js"></script>
+
+
+</body>
+</html>
